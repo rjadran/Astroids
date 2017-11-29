@@ -1,0 +1,82 @@
+c:/users/jpahl/documents/visual studio 2012/Projects/Asteroids/Asteroids/bin/Debug/Asteroids.exe.config
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/Asteroids.exe.config
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/Asteroids.exe
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/Asteroids.pdb
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/OpenTK.dll
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/OpenTK.pdb
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/OpenTK.xml
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/obj/Debug/Asteroids.csprojResolveAssemblyReference.cache
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/obj/Debug/Asteroids.exe
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/obj/Debug/Asteroids.pdb
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/bin/Debug/Asteroids.exe.config
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/bin/Debug/Asteroids.exe
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/bin/Debug/Asteroids.pdb
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/bin/Debug/OpenTK.dll
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/bin/Debug/OpenTK.xml
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/obj/Debug/Asteroids.csprojResolveAssemblyReference.cache
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/obj/Debug/Asteroids.exe
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/obj/Debug/Asteroids.pdb
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/bin/Debug/asteroid_big0.png
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/bin/Debug/asteroid_medium0.png
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/bin/Debug/asteroid_small0.png
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/asteroid_big0.png
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/asteroid_medium0.png
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/asteroid_small0.png
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/space.png
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/player.png
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/explosion.png
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/projectile.png
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/bin/Debug/player.png
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/bin/Debug/space.png
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/bin/Debug/burst.png
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/bin/Debug/explosion.png
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/bin/Debug/projectile.png
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/bin/Debug/Asteroids.exe.config
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/obj/Debug/Asteroids.exe
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/obj/Debug/Asteroids.pdb
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/bin/Debug/asteroid_big0.png
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/bin/Debug/asteroid_medium0.png
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/bin/Debug/asteroid_small0.png
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/bin/Debug/burst.png
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/bin/Debug/explosion.png
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/bin/Debug/player.png
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/bin/Debug/projectile.png
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/bin/Debug/space.png
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/bin/Debug/Asteroids.exe
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/bin/Debug/Asteroids.pdb
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/bin/Debug/OpenTK.dll
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/bin/Debug/OpenTK.pdb
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/bin/Debug/OpenTK.xml
+//vmware-host/Shared Folders/Documents/gd364final/Asteroids/Asteroids/obj/Debug/Asteroids.csprojResolveAssemblyReference.cache
+=======
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/burst.png
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/bin/Debug/snd_explosion_player.wav
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/bin/Debug/snd_explosion_asteroid.wav
+C:/Users/Kevin/Documents/gd364final/Asteroids/Asteroids/bin/Debug/snd_shoot.wav
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/snd_explosion_player.wav
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/snd_explosion_asteroid.wav
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/snd_shoot.wav
+C:/Users/jpahl/Documents/gd364final/Asteroids/Asteroids/bin/Debug/game_label.png
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/bin/Debug/asteroid_big0.png
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/bin/Debug/asteroid_medium0.png
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/bin/Debug/asteroid_small0.png
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/bin/Debug/burst.png
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/bin/Debug/explosion.png
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/bin/Debug/game_label.png
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/bin/Debug/player.png
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/bin/Debug/projectile.png
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/bin/Debug/snd_explosion_asteroid.wav
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/bin/Debug/snd_explosion_player.wav
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/bin/Debug/snd_shoot.wav
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/bin/Debug/space.png
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/bin/Debug/Asteroids.exe.config
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/bin/Debug/Asteroids.exe
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/bin/Debug/Asteroids.pdb
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/bin/Debug/OpenTK.xml
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/obj/Debug/Asteroids.csprojResolveAssemblyReference.cache
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/obj/Debug/Asteroids.csproj.CoreCompileInputs.cache
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/obj/Debug/Asteroids.exe
+/Users/Rafay/Downloads/Jas45913-gd364final-88e6429d77aa/Asteroids/Asteroids/obj/Debug/Asteroids.pdb
+Z:\Downloads\Jas45913-gd364final-88e6429d77aa\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+Z:\Downloads\Jas45913-gd364final-88e6429d77aa\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+Z:\Downloads\Jas45913-gd364final-88e6429d77aa\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
